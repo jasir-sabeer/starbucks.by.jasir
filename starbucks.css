@@ -1,0 +1,363 @@
+
+.box1{
+ width: 100%;
+ height:1.5cm;
+ background-color: #fff;
+ padding-top: 1cm;
+}
+.box2{
+    width: 100%;
+    height: 2cm;
+    background-color: #1e3932;
+
+}
+.box3{
+    width: 100%;
+    height: 16cm;
+    background-color:#fff;
+}
+.box4{
+    width: 100%;
+    height:8cm ;
+    background-color:#edebe9;
+
+}
+.box5{
+    width: 100%;
+    height: 14cm;
+}
+.box6{
+    width: 100%;
+    height: 20cm;
+    background-color:#1e3932;
+}
+body{
+    margin: 0;
+}
+.starbuckslogo{
+    margin-left: 80px;
+    float: left;
+    width:1cm;
+}
+.b1hs{
+    float: left;
+    color: #000;
+    text-decoration: none;
+    margin-left: 60px;
+    font-family: SoDoSans_Light, Helvetica, sans-serif !important;
+    margin-top: .2cm;
+}
+.searchbox{
+    width: 7.2cm;
+    height: 1cm;
+    background-color:#fff;
+    float: left;
+    border-radius: 20px;
+    box-shadow:0 0 1px 1px #989292;
+    margin-left: 5cm;
+}
+.input-button{
+    float: left;
+    margin-left: .5cm;
+    margin-top: .3cm;
+    color: #000;
+}
+.input-text{
+    float: left;
+    width: 5.2cm;
+    margin-left: .7cm;
+    margin-top: .2cm;
+    background-color: #ffff;
+    border: none;
+}
+.account-thin{
+    margin-left: 2cm;
+}
+
+
+.b2p1{
+    width:50%;
+    background-color:#1e3932 ;
+    float: left;
+}
+.b2p2{
+    width:50%;
+    background-color:#1e3932 ;
+    padding-top: .7cm;
+    float: left;
+}
+.h1{
+    color: #f9f9f9;
+    font-size: 20px;
+    font-weight: 300;
+    font-family: SoDoSans_Light, Helvetica, sans-serif !important;
+    margin-left: 80px;
+}
+.button1{
+margin-left: 420px;
+border-radius: 15px;
+background-color:#1e3932;
+font-family: SoDoSans_Light, Helvetica, sans-serif !important;
+color: #fff;
+border-color: #fff;
+block-size: 30px;
+border: none;
+box-shadow: 0 0 1px 1px;
+
+}
+.b3p1{
+    width: 100%;
+
+}
+.b3p2{
+    width: 100%;
+    
+}
+.img2{
+    width: 95%;
+    height: 9cm;
+    margin-left: 50px;
+
+}
+.b3p2h{
+    font-family: SoDoSans_Semibold, Helvetica, sans-serif !important;
+    margin-left: 80px;
+}
+.b3imgs{
+    width: 108px;
+    height: 108px;
+    border-radius: 50%;
+    margin-left: 80px;
+    float: left;
+}
+.foodnames{
+    width: 100%;
+    height: 1cm;
+    background-color:#fff;
+}
+.names1{
+    font-family:SoDoSans_Semibold,Helvetica,sans-serif;
+    font-size: 14px;
+    margin-left: 100px;
+    float: left;
+}
+.names2{
+    font-family:SoDoSans_Semibold,Helvetica,sans-serif;
+    font-size: 14px;
+    margin-left: 130px;
+    float: left;
+}
+.names3{
+    font-family:SoDoSans_Semibold,Helvetica,sans-serif;
+    font-size: 14px;
+    margin-left: 150px;
+    float: left;
+}
+.names4{
+    font-family:SoDoSans_Semibold,Helvetica,sans-serif;
+    font-size: 14px;
+    margin-left: 130px;
+    float: left;
+}
+.names5{
+    font-family:SoDoSans_Semibold,Helvetica,sans-serif;
+    font-size: 14px;
+    margin-left: 100px;
+    float: left;
+}
+.names6{
+    font-family:SoDoSans_Semibold,Helvetica,sans-serif;
+    font-size: 14px;
+    margin-left: 100px;
+    float: left;
+}
+.partA{
+    width: 100%;
+    height: 2cm;
+    background-color: #edebe9;
+    
+}
+.partB{
+    width: 100%;
+    height: 6cm;
+    background-color: #edebe9;
+}
+.b4h{
+    font-size: 1.5em;
+    font-family:SoDoSans_Semibold,Helvetica,sans-serif;
+    font-weight: 700;
+    float: left;
+    margin-left: 80px;
+    color:#1e3932;
+
+}
+.b4link{
+    margin-left: 720px;
+    text-decoration: none;
+    color: #00754a;
+    font-size: .8rem;
+    cursor: pointer;
+    font-family: SoDoSans_Semibold, Helvetica, sans-serif;
+    float: left;
+    padding-top: .5cm;
+    
+}
+.svg{
+    margin-left: 70px;
+    width: 70px;
+}
+.b4im1{
+    width: 9cm;
+    height: 4.5cm;
+    margin-left: 50px;
+}
+.b4im2{
+    width: 9cm;
+    height: 4.5cm;
+    margin-left:1cm;
+}
+.b5partA{
+    width: 100%;
+    height: 1cm;
+    background-color: #fff;
+}
+.b5partB{
+    width: 100%;
+    height: 2cm;
+    background-color: #edebe9;
+}
+.b5partC{
+    width: 100%;
+    height: 11cm;
+    background-color: #edebe9;
+}
+.b5learn{
+    font-family: SoDoSans_Semibold, Helvetica, sans-serif;
+    margin-left: 80px;
+    float: left;
+}
+.b5discover{
+    margin-left:60px;
+    text-decoration: none;
+    color: #00754a;
+    font-size: .8rem;
+    cursor: pointer;
+    font-family: SoDoSans_Semibold, Helvetica, sans-serif;
+    float: left;
+    padding-top: .5cm;
+
+
+}
+.b5pB1{
+    width: 50%;
+    height:2cm ;
+    background-color:#edebe9;
+    float: left;
+}
+.b5pB2{
+    width: 30%;
+    height:2cm ;
+    background-color:#edebe9;
+    float: left;
+}
+.b5pB3{
+    width: 20%;
+    height:2cm ;
+    background-color:#edebe9;
+    float: left;
+}
+.b5imagespc{
+    width: 28cm;
+    height: 10cm;
+    border-radius: 10px;
+    margin-left: 80px;
+    
+}
+.b6part1{
+    width: 100%;
+    height: 1cm;
+    background-color: #fff;
+}
+.b6part2{
+    width: 100%;
+    height: 17cm;
+}
+.b6part3{
+    width: 100%;
+    height: 2cm;
+    background-color:#1e3932;
+}
+.b6p2a{
+    width: 20%;
+    height:17cm ;
+    background-color: #1e3932;
+    float: left;
+}
+.b6p2b{
+    width: 15%;
+    height:17cm ;
+    background-color:#1e3932;
+    float: left;
+}
+.b6p2c{
+    width: 15%;
+    height:17cm ;
+    background-color:#1e3932;
+    float: left;
+}
+.b6p2d{
+    width: 15%;
+    height:17cm ;
+    background-color:#1e3932;
+    float: left;
+}
+.b6p2e{
+    width: 13%;
+    height:17cm ;
+    background-color: #1e3932;
+    float: left;
+}
+.b6p2f{
+    width: 20%;
+    height:17cm ;
+    background-color:#1e3932;
+    float: left;
+}
+.b6about{
+    font-size: 1.125em;
+    color: #fff;
+    font-family: SoDoSans_Semibold, Helvetica, sans-serif;
+    padding-top: 2cm;
+}
+.b6combo{
+    font-weight: 400;
+    font-size: .875em;
+    text-decoration: none;
+    color: #fff;
+    font-family: SoDoSans_Light, Helvetica, sans-serif !important;
+}
+.social{
+    font-size: 1.125em;
+    color: #fff;
+    font-family: SoDoSans_Semibold, Helvetica, sans-serif;
+    padding-top: 2cm;
+}
+.appstores{
+    padding-top: 2cm;
+
+}
+.b6p3Elem{
+    float: left;
+    color: #fff;
+    margin-left: 40px;
+    font-family: SoDoSans_Light, Helvetica, sans-serif !important;
+    font-size:.75em ;
+}
+.b6p3link{
+    color: #fff;
+    text-decoration: none;
+    margin-left:6cm ;
+    font-size: .75em;
+    font-family:SoDoSans_Light, Helvetica, sans-serif !important ;
+    margin-top: .5cm;
+}
